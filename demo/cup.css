@@ -1,0 +1,28 @@
+body{
+
+}
+
+.cup{
+    
+}
+.square{
+    width: 300px;
+    height: 500px;
+    background: green;  
+    border-bottom-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+}
+.handle{
+    width: 300px;
+    height: 400px;
+    background: green;
+    position: relative;
+    bottom: 90px;
+    right: 20px;
+    border-top-right-radius: 40px;
+    border-bottom-right-radius: 40px;
+}
+
+.inline{
+    display: inline-block;
+}
