@@ -26,6 +26,10 @@ body {
 	background-color: black;
 }
 
+.transition {
+	transition: .25s;
+}
+
 .oElement1 {
 	grid-column: 1;
 	grid-row: 3;
@@ -1745,6 +1749,3 @@ body {
 
 }
 
-.transition {
-	transition: .25s;
-}
