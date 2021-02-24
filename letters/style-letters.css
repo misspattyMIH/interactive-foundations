@@ -2,7 +2,7 @@ body {
 	 margin: 0;
 }
 .mainCont {
-	margin-top: 20px;
+	margin-top: 0px;
 	margin-left: auto;
 	margin-right: auto;
 	width: 90%;
@@ -10,9 +10,16 @@ body {
 	min-height: 100px;
 	background-color: gray
 
+}
+
+h1 {
+	font-size: 150px;
+	text-align: center;
+	color: white
+}
 	
 
-}
+
 
 .letterCont {
 	display: grid;
