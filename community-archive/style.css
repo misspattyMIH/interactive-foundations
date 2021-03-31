@@ -73,6 +73,15 @@ text-decoration: none;
 	margin: 0;
 	line-height: 2em;
 	margin-bottom: -.5em;
+	font-size: 45pt;
+
+}
+.space1{
+	padding: 0;
+	margin: 0;
+	line-height: 2em;
+	margin-bottom: -.5em;
+	font-size: 25pt;
 
 }
 .photos{
