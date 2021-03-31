@@ -68,6 +68,7 @@ text-decoration: none;
 	padding: 7px;
 	color: black; 
 	border-radius: 5px; 
+
 }
 .space{
 	padding: 0;
@@ -96,7 +97,7 @@ text-decoration: none;
 
 }
 .banner{
-	width: 100%;
+	width: 90%;
 	height: 480px;
 	margin: auto;
 	background-color: black;

@@ -26,3 +26,15 @@ body{
 .inline{
     display: inline-block;
 }
+
+#square {
+  width: 100px;
+  height: 100px;
+  background: red;
+}
+
+#rectangle {
+  width: 200px;
+  height: 100px;
+  background: red;
+}
