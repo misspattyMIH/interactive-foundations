@@ -64,6 +64,7 @@ text-decoration: none;
 }
 .astyle{
 	border: 2px solid black;
+	border-radius: all;
 	padding: 7px;
 	color: black; 
 	border-radius: 5px; 
