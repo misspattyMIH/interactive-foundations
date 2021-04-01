@@ -1,6 +1,6 @@
 body{
 
-	margin: 0;
+	margin: auto;
 }
 
 main{
@@ -102,7 +102,7 @@ text-decoration: none;
 
 }
 .banner{
-	width: 100%;
+	width: 120%;
 	height: 380px;
 	margin: fill;
 	background-color: black;
