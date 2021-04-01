@@ -87,19 +87,19 @@ text-decoration: none;
 
 }
 .photos{
-	width: 100%;
+	width: 85%;
 	height: 2080px;
 	margin: auto;
 	background-image: url(images/screenshots.png);
-	background-position: center;
+	background-position: center; object-fit: 
 	background-size: contain; background-attachment: scroll;
 	background-repeat: no-repeat;
 
 }
 .banner{
-	width: 90%;
-	height: 480px;
-	margin: auto;
+	width: 100%;
+	height: 380px;
+	margin: fill;
 	background-color: black;
 	background-image: url(images/victims.png);
 	background-attachment: scroll;
