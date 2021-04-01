@@ -87,13 +87,14 @@ text-decoration: none;
 
 }
 .photos{
-	width: 85%;
-	height: 2080px;
+	width: 90%;
+	height: 3080px;
 	margin: auto;
-	background-image: url(images/screenshots.png);
-	background-position: center; object-fit: 
-	background-size: contain; background-attachment: scroll;
+	background-image: url(images/screenshots.png); background-image: contain;
+	background-position: center; object-fit; 
+	background-size: contain; background-attachment: scroll:
 	background-repeat: no-repeat;
+
 
 }
 .banner{
