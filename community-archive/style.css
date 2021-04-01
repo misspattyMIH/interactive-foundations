@@ -67,7 +67,8 @@ text-decoration: none;
 	border-radius: all;
 	padding: 7px;
 	color: black; 
-	border-radius: 5px; 
+	border-radius: contain; 
+	
 
 }
 .space{
@@ -107,3 +108,5 @@ text-decoration: none;
 	background-position:center;
 	background-size: cover;
 }
+
+
