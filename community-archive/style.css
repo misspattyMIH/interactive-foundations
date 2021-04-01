@@ -68,6 +68,9 @@ text-decoration: none;
 	padding: 7px;
 	color: black; 
 	border-radius: contain; 
+	display: inline-block;
+	margin-right: 10px;
+	margin-bottom: 10px;
 	
 
 }
