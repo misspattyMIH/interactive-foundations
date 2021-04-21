@@ -18,8 +18,8 @@ nav {
     position: fixed;
     top: 30px;
     right: 30px;
-    width: 60px;
-    height: 60px;
+    width: 50px;
+    height: 50px;
     border: solid 2px black;
     border-radius: 50%;
     z-index: 100;
@@ -43,6 +43,7 @@ nav {
   transform: translateX(500px);
   transition: all 0.2s ease-in;
   z-index: 80;
+  font-size: 18px;
 }
 
 .menu.open {
@@ -70,4 +71,19 @@ nav {
   opacity: 0.5;
   z-index: -20;
 }
+.font {
+  font-family: monospace;
+  font-size: 13pt;
+}
+.astyle{
+  border: 2px solid white;
+  border-radius: all;
+  padding: 7px;
+  color: white; 
+  border-radius: contain; 
+  display: inline-block;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  
 
+}
