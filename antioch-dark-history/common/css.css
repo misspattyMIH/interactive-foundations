@@ -70,10 +70,7 @@ nav {
   background: black;
   opacity: 0.5;
   z-index: -20;
-}
-.font {
-  font-family: monospace;
-  font-size: 13pt;
+
 }
 .astyle{
   border: 2px solid white;
@@ -86,6 +83,7 @@ nav {
   margin-bottom: 10px;
 }
 p{
+  font-family: american typewriter;
   width: 550px;
 }
 
