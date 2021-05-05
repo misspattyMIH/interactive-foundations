@@ -4,6 +4,9 @@ body {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 2rem;
   color:black;
+  display: flex;
+  flex-direction: column;
+  align-items: left;
 }
 
 main {
@@ -20,7 +23,7 @@ nav {
     right: 30px;
     width: 50px;
     height: 50px;
-    border: solid 2px black;
+    border: solid 5px crimson red;
     border-radius: 50%;
     z-index: 100;
     -webkit-transition: all 0.4s ease;
@@ -29,7 +32,7 @@ nav {
 }
 
 .menu-button.open {
-  border: solid 5px red;
+  border: solid 10px crimson red;
 }
 
 .menu {
@@ -84,7 +87,8 @@ nav {
 }
 p{
   font-family: american typewriter;
-  width: 550px;
+  font-size: 24px;
+  width: 100%;
 }
 
 img{
@@ -94,3 +98,10 @@ img{
 strong{
   color: red;
 }
+
+.square1:hover {
+    transition: 1.5s;
+    background-color: rgba(255,255,255,0.5);
+    transform: scaleY(1.125) rotateX(15deg) rotateY(45deg) rotateZ(12.5deg);
+}
+
