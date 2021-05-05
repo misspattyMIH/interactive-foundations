@@ -21,8 +21,8 @@ nav {
     position: fixed;
     top: 30px;
     right: 30px;
-    width: 50px;
-    height: 50px;
+    width: 60px;
+    height: 60px;
     border: solid 5px crimson red;
     border-radius: 50%;
     z-index: 100;
@@ -89,6 +89,8 @@ p{
   font-family: american typewriter;
   font-size: 24px;
   width: 100%;
+  line-height: 29px;
+
 }
 
 img{
@@ -104,4 +106,6 @@ strong{
     background-color: rgba(255,255,255,0.5);
     transform: scaleY(1.125) rotateX(15deg) rotateY(45deg) rotateZ(12.5deg);
 }
-
+h4{
+  font-size: 16px;
+}
