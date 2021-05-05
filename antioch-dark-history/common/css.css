@@ -29,7 +29,7 @@ nav {
 }
 
 .menu-button.open {
-  border: solid 2px white;
+  border: solid 5px red;
 }
 
 .menu {
